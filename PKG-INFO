@@ -1,0 +1,21 @@
+Metadata-Version: 1.2
+Name: dizzy
+Version: 2.0
+Summary: Dizzy Fuzzing Library
+Home-page: https://c0decafe.de
+Author: Daniel Mende
+Author-email: mail@c0decafe.de
+License: MIT
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: MIT LICENSE
+Classifier: Natural Language :: English 
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Topic :: Security
+Classifier: Topic :: Software Development :: Testing
+Requires-Python: >=3
